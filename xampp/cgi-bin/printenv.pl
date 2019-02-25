@@ -1,4 +1,4 @@
-#!"\xampp\perl\bin\perl.exe"
+#!"\PHP\xampp\perl\bin\perl.exe"
 ##
 ##  printenv -- demo CGI program which just prints its environment
 ##
